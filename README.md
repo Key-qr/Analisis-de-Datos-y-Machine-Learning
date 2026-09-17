@@ -1,6 +1,6 @@
-# 📊 Laboratorio de Análisis de Datos y Machine Learning
+# Laboratorio de Análisis de Datos y Machine Learning
 
-## 📌 Descripción General
+## Descripción General
 
 Este repositorio documenta el desarrollo de prácticas orientadas al **Análisis Exploratorio de Datos (EDA)**, **Preprocesamiento**, y **Modelado Predictivo**, aplicando técnicas de Ciencia de Datos sobre múltiples datasets reales.
 
